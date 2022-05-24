@@ -1,0 +1,52 @@
+[
+    {
+        "name": "squishy squad",
+        "address": "0x792496a3f678187e59e1d1d5e075799cd1e124c2",
+        "channel": "957988917804675152"
+    },
+    {
+        "name": "godjira",
+        "address": "0x9ada21A8bc6c33B49a089CFC1c24545d2a27cD81",
+        "channel": "959409258213032046"
+    },
+    {
+        "name": "bayc",
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "channel": "958134283199971338"
+    },
+    {
+        "name": "kaijuking",
+        "address": "0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83",
+        "channel": "965283971250393188"
+    },
+    {
+        "name": "MetacraftSeasonPass2022",
+        "address": "0x0b1d6565d88f9bf6473e21c2ab58d28a495d7bb5",
+        "channel": "958153686041915412"
+    },
+    {
+        "name": "zenape",
+        "address": "0x838804a3dd7c717396a68f94e736eaf76b911632",
+        "channel": "966065571886137354"
+    },
+    {
+        "name": "pxn",
+        "address": "0x160c404b2b49cbc3240055ceaee026df1e8497a0",
+        "channel": "966065599174299678"
+    },
+    {
+        "name": "kaijuTestSample",
+        "address": "0xc8d9b60d79cad803eb165a95ede37fd0d372920c",
+        "channel": "958155944183881748"
+    },
+    {
+        "name": "kaiju-mutant",
+        "address": "0x83f82414b5065bb9a85e330c67b4a10f798f4ed2",
+        "channel": "975895099970031687"
+    },
+    {
+        "name": "kaiju-aug",
+        "address": "0xa310425046661c523d98344f7e9d66b32195365d",
+        "channel": "975898832665726986"
+    }
+]

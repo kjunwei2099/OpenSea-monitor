@@ -10,8 +10,8 @@ from webserver import keep_alive
 from os import system
 
 # unused 1st
-token = "OTYzMTEzNzQ2MDk4NjkyMTg2.YlRXkg.oIvtk2iGB4ti6S1XKnYmBgUQ_1M"
-token2 = "OTEyNTI3NTMzNTU0MTY3ODQ4.YZxPfQ.0TTpKnOPGsV4rsN0v0wZ9GQeg4Q"
+
+token2 = "YOUR DISCORD TOKEN"
 bot = commands.Bot(
     command_prefix="!",  # bot prefix
     case_insensitive=True,  # case-sensitive
@@ -21,7 +21,7 @@ bot = commands.Bot(
 
 headers = {
     'Accept': 'application/json',
-    'X-API-KEY': '21775f68ae5c4317923ebb7def805a6e'
+    'X-API-KEY': 'YOUR OPENSEA API'
 }
 
 
